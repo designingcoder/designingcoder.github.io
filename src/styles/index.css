@@ -2,7 +2,7 @@
 @tailwind components;
 
 .social-tab {
-  @apply bg-gray-200 hover:bg-gray-300 flex flex-wrap justify-center content-center w-full lg:w-1/4 md:h-14 h-12 rounded md:my-8 lg:my-4 my-8 text-gray-900 text-xl md:text-xl align-middle font-medium md:font-normal;
+  @apply bg-gray-200 hover:bg-gray-300 flex flex-wrap justify-center content-center lg:w-80 w-full md:h-14 h-12 rounded md:my-8 lg:my-4 my-8 text-gray-900 text-xl md:text-xl align-middle font-medium md:font-normal;
 }
 
 @tailwind utilities;
