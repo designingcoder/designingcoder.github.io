@@ -19,7 +19,7 @@ export default function Home() {
            <a href="https://hashnode.com/@designingcoder"><div className="social-tab">Hashnode</div></a>
         </div>
         <div className="lg:flex justify-around">
-           <a href="https://www.codepen.com/designingcoder"><div className="social-tab">CodePen</div></a>
+           <a href="https://www.codepen.io/designingcoder"><div className="social-tab">CodePen</div></a>
         </div>
       </div>
       <div className="col-span-2 hidden sm:inline-block"></div>
