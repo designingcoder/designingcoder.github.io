@@ -21,6 +21,16 @@ export default function Home() {
         <div className="lg:flex justify-around">
            <a href="https://www.codepen.io/designingcoder"><div className="social-tab">CodePen</div></a>
         </div>
+      <div className="my-24">
+        <div className="iframe-container-yt">
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/lA2uKMm6_gA"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+        </div>
+      </div>
       </div>
       <div className="col-span-2 hidden sm:inline-block"></div>
     </div>

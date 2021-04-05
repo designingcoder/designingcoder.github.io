@@ -8,6 +8,19 @@
 @tailwind utilities;
 
 body {
-  background: #050115;
+  background: #27272f;
   color: #ececec;
+}
+.iframe-container-yt{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container-yt iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
