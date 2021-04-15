@@ -24,7 +24,7 @@ export default function Home() {
       <div className="my-24">
         <div className="iframe-container-yt">
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/lA2uKMm6_gA"
+          src="https://www.youtube.com/embed/MdXCnTD6Kso"
           title="YouTube video player" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen>
@@ -36,3 +36,4 @@ export default function Home() {
     </div>
   )
 }
+
